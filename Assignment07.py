@@ -3,8 +3,7 @@
 # Desc: This assignment demonstrates using data classes
 # with structured error handling
 # Change Log: (Who, When, What)
-#   RRoot,1/1/2030,Created Script
-#   <Your Name Here>,<Date>,<Activity>
+#   Wen Jiang, 12/9/2025, Created Script
 # ------------------------------------------------------------------------------------------ #
 import json
 import _io
